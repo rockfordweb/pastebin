@@ -1,0 +1,16 @@
+{
+  "name": "pastebin",
+  "version": "0.0.0",
+  "homepage": "https://github.com/rockfordweb/pastebin",
+  "description": "PasteBin Clone built by Rockford Web Devs -- August 12, 2014",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
